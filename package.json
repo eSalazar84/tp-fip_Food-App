@@ -1,0 +1,11 @@
+{
+  "name": "project-food-app",
+  "version": "1.0.0",
+  "description": "TP obligatorio para FIP ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Francisco Diaz - Emiliano Salazar",
+  "license": "ISC"
+}
